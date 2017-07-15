@@ -7,6 +7,8 @@ Some concepts must understand:
 - Attribute, Fields, Collumns
 - Record, Rows
 - Normalization : What , Why?
-- Denormalization 
+- What characteristics of a good design?
+- What is integrity? What is duplication?
+- Denormalization?
 - Modification Anomalies : What ? Example
 - Insertion Anomaly, Deletion Anomaly, Update Anomaly : What are the differences?
